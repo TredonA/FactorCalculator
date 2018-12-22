@@ -1,5 +1,6 @@
 # FactorCalculator
-Creating a program where, given an integer input, the factors of the integer will be printed out.
+
+Inspired by Reddit user /u/-Erich- at https://www.reddit.com/r/beginnerprojects/comments/1a0d82/function_factors_of_a_number/
 
 <b>GOAL</b>
 
